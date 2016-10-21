@@ -11,6 +11,9 @@ Android studio SDK
 
 **About the project:**Its a basic calculator that performs the following:
 
+Addition
+
+
 
 
 
